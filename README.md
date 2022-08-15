@@ -1,4 +1,7 @@
-:heavy_check_mark: Traits
+# Rust: 
+:heavy_check_mark: 
+
+Traits
 
     - [x] What is trait?
     - [ ]How to use traits as a constraint?
