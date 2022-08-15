@@ -1,35 +1,22 @@
-- [x] (for unchecked checkbox)
-### Solar System Exploration, 1950s – 1960s
-
-- [ ] Mercury
-- [ ] Venus
-- [x] Earth (Orbit/Moon)
-- [&cross;] Mars
-- [&check;] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
-
 :heavy_check_mark: Traits
 
-    What is trait?
-    How to use traits as a constraint?
-    Get idea on below traits
-        Sized, Send, Sync, PartialEq, Clone, Debug, Display, Serialize, Deserialize, Hash, Eq
+    - [x] What is trait?
+    - [ ]How to use traits as a constraint?
+    - [ ]Get idea on below traits
+        - [ ]Sized, Send, Sync, PartialEq, Clone, Debug, Display, Serialize, Deserialize, Hash, Eq
 
 :white_check_mark: Generics
 
-    What is generics?
+    - [&cross;]What is generics?
         How to use generics for functions, structs, enums?
     
 :white_large_square: Async
 
-    What is async in rust?
-    What is runtime for async?
-    Which are popular runtime for async programming in rust?
-    What is future?
-    What is await?
+    - [&cross;]What is async in rust?
+    - [&check;]What is runtime for async?
+    - [&check;]Which are popular runtime for async programming in rust?
+    - [&check;]What is future?
+    - [&check;]What is await?
 
 Thread
     What is thread?
