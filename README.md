@@ -1,4 +1,18 @@
-Traits
+- [x] (for unchecked checkbox)
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [ ] Venus
+- [ ] Earth (Orbit/Moon)
+- [&cross;] Mars
+- [&check;] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
+:heavy_check_mark: Traits
+
     What is trait?
     How to use traits as a constraint?
     Get idea on below traits
