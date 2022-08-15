@@ -3,7 +3,7 @@
 
 - [ ] Mercury
 - [ ] Venus
-- [ ] Earth (Orbit/Moon)
+- [x] Earth (Orbit/Moon)
 - [&cross;] Mars
 - [&check;] Jupiter
 - [ ] Saturn
@@ -18,11 +18,13 @@
     Get idea on below traits
         Sized, Send, Sync, PartialEq, Clone, Debug, Display, Serialize, Deserialize, Hash, Eq
 
-Generics
+:white_check_mark: Generics
+
     What is generics?
         How to use generics for functions, structs, enums?
     
-Async
+:white_large_square: Async
+
     What is async in rust?
     What is runtime for async?
     Which are popular runtime for async programming in rust?
